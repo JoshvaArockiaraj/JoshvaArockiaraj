@@ -12,7 +12,7 @@ Hi! My name is Joshva Edward 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://linkedin.com/in/joshva-arockiaraj-edward" target="_blank" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://linkedin.com/in/joshva-arockiaraj-edward" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
   </a>
 </div>
