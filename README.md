@@ -13,6 +13,6 @@ Hi! My name is Joshva Edward 😄
 
 <div id="badges">
   <a href="https://linkedin.com/in/joshva-arockiaraj-edward" target="_blank" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </div>
