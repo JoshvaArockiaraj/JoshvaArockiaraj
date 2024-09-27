@@ -6,7 +6,7 @@ Hi! My name is Joshva Edward 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org)
 <br/>
 
 ### Socials
