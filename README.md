@@ -1,7 +1,7 @@
 Hi! My name is Joshva Edward 😄
 ========================================================================================================================================
 
-🌍 I am a Software Engineer based in India.
+🌍 Software Engineer based in India.
 <br/>
 
 ### Skills
